@@ -1,7 +1,6 @@
-# Final Project Submission - Getting and Cleaning Data
+## Final Project Submission - Getting and Cleaning Data
 ====================================================
-### run_analysis.R performs the following actions on the 
-### "Human Activity Recognition Using Smartphones Dataset":
+### run_analysis.R performs the following actions on the "Human Activity Recognition Using Smartphones Dataset":
 
 * 1. Merges the training and the test sets to create one data set.
 * 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
